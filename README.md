@@ -39,6 +39,10 @@ Want my CV? [Got you covered.](https://krofdrakula.github.io/assets/klemen-slavi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="50"/>
+  <img src="https://fresh.deno.dev/logo.svg" height="50"/>
+  <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" height="50"/>
+  <img src="https://raw.githubusercontent.com/statelyai/public-assets/main/logos/xstate-logo-black-nobg.svg" height="50"/>
+  <img src="https://d33wubrfki0l68.cloudfront.net/594c6f1ec038fc51a47d02762acada24c78c637c/c93b0/meta/tauri_logo_light.svg" height="50"/>
 </div>
 
 ## My favourite tools
@@ -52,6 +56,7 @@ Want my CV? [Got you covered.](https://krofdrakula.github.io/assets/klemen-slavi
   <img src="https://vitejs.dev/logo.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height="50"/>
+  <img src="https://d33wubrfki0l68.cloudfront.net/2f3acb83b7d2349f2194bc38c0f22f295908dc33/43f95/img/pnpm-no-name-with-frame.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50"/>
