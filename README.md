@@ -10,6 +10,7 @@ Want my CV? [Got you covered.](https://krofdrakula.github.io/assets/klemen-slavi
 
 ![KrofDrakula's GitHub stats](https://github-readme-stats.vercel.app/api?username=krofdrakula&count_private=true&theme=transparent&show_icons=true)
 
+<!--
 ## Languages I like or used
 
 <div>
@@ -85,3 +86,4 @@ Want my CV? [Got you covered.](https://krofdrakula.github.io/assets/klemen-slavi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50"/>
 </div>
+-->
